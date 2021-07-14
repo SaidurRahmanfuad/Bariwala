@@ -10,9 +10,11 @@
 
     <color name="maincolor">#ff5151</color>
     <color name="maincolorshadow">#FFECEC</color>
+    <color name="maincolorlight">#FF8686</color>
     <color name="colorblue">#556FFF</color>
     <color name="coloryollow">#d9d92f</color>
     <color name="colorgreen">#11d99b</color>
+    <color name="colorgreenlight">#D2E8E1</color>
     <color name="colorred">#ff3333</color>
     <color name="colorshadow">#a9a9a9</color>
     <color name="colorshadow2">#e8e8e8</color>

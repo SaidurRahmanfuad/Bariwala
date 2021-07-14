@@ -1,11 +1,17 @@
 <resources>
 
-    <style name="Widget.Theme.Bariwala.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+  <!--  <style name="Widget.Theme.Bariwala.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
         <item name="android:background">@color/black_overlay</item>
     </style>
 
     <style name="Widget.Theme.Bariwala.ButtonBar.Fullscreen" parent="">
         <item name="android:background">@color/black_overlay</item>
         <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>-->
+
+    <style name="tab_text" parent="@android:style/TextAppearance.Widget.TabWidget">
+    <item name="fontFamily">@font/balo_regular</item>
     </style>
+
+
 </resources>

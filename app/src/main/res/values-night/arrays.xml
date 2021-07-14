@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/balo_bold</item>
+        <item>@font/balo_extrabold</item>
+        <item>@font/balo_medium</item>
+        <item>@font/balo_regular</item>
+        <item>@font/balo_semibold</item>
+    </array>
+</resources>

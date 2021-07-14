@@ -4,8 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.mbariwala.home.HomeFragment">
-
+    tools:context=".ui.mvaratia.ui.dashboard.DashboardFragment">
     <LinearLayout
         android:id="@+id/toallay1"
         android:layout_width="match_parent"
@@ -38,7 +37,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:fontFamily="@font/balo_bold"
-                    android:text="মোট পাওনা"
+                    android:text="পুর্বের বকেয়া"
                     android:textColor="@color/white"
                     android:textSize="16sp" />
 
@@ -69,7 +68,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:fontFamily="@font/balo_bold"
-                    android:text="মোট আদায়"
+                    android:text="এ মাসের পাওনা"
                     android:textColor="@color/white"
                     android:textSize="16sp" />
 
@@ -99,7 +98,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:fontFamily="@font/balo_bold"
-                    android:text="বকেয়া"
+                    android:text="পরিশোধ"
                     android:textColor="@color/white"
                     android:textSize="16sp" />
 

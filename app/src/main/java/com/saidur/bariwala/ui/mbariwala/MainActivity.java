@@ -1,4 +1,4 @@
-package com.saidur.bariwala;
+package com.saidur.bariwala.ui.mbariwala;
 
 import android.os.Bundle;
 import android.view.View;
@@ -7,6 +7,8 @@ import android.view.Menu;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
+import com.saidur.bariwala.R;
+import com.saidur.bariwala.databinding.ActivityMainBinding;
 
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
@@ -19,7 +21,7 @@ import androidx.appcompat.widget.Toolbar;
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
-
+     ActivityMainBinding acmbinding;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

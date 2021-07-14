@@ -13,4 +13,24 @@
     <string name="title_activity_splash">FullscreenActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="varatia">আমি ভাড়াটিয়া</string>
+    <string name="bariwala">আমি বাড়িওয়ালা</string>
+    <string name="submit">সাবমিট করুন</string>
+    <string name="mobile">মোবাইল নম্বর</string>
+    <string name="name">আপনার নাম</string>
+    <string name="housecode">হাউজ কোড</string>
+    <string name="pincode">পিন কোড</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="floorwiseunit">ফ্লোর অনুযায়ী ইউনিট তৈরি করুন</string>
+    <string name="homeinfo">বাসার তথ্য যুক্ত করুন</string>
+    <string name="whichfloor">কোন ফ্লোর ?</string>
+    <string name="hint_unit">ইউনিট নাম/নম্বর</string>
+    <string name="hint_rent">ভাড়া কত ?</string>
+    <string name="hint_add">যুক্ত করি</string>
+    <string name="title_activity_varatia_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="menu_dashboard">Dashboard</string>
 </resources>
